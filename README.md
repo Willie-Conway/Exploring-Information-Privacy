@@ -1,5 +1,6 @@
 
 # 🔐 Exploring Information Privacy — Cybersecurity Project
+ ![Exploring-Information-Privacy](https://github.com/Willie-Conway/Exploring-Information-Privacy/blob/a46e304a0f97983ff21925e3f308433dbedf6e1f/reports/Output.png)
 
 A comprehensive toolkit implementing modern **information privacy** techniques tailored for cybersecurity analysts and compliance teams.
 
