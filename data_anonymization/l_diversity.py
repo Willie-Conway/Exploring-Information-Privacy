@@ -1,3 +1,6 @@
+import math
+
+
 class LDiversity:
     def __init__(self, dataframe, quasi_identifiers, sensitive_attribute):
         self.dataframe = dataframe
